@@ -1,8 +1,9 @@
 body {
     margin: 0%;
     padding: 0%;
-    background-color: black;
+    background: linear-gradient(320deg, black, rgb(41, 41, 43), rgb(0, 0, 0) );
     color: white;
+    font-family:'Lucida Sans';
 }
 .titulos_h1 {
     text-align: center;
