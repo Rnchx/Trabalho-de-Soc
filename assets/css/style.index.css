@@ -44,8 +44,8 @@ p {
     font-size: 5vh;
     margin-top: 10vh;
     border-bottom: solid 0.3vh rgb(255, 102, 0);
-    margin-left: 90vh;
-    margin-right: 90vh;
+    margin-left: 85vh;
+    margin-right: 85vh;
 }
 
 main {
@@ -84,14 +84,14 @@ section {
     text-align: center;
     margin-bottom: 20vh;
     border-bottom: solid 0.3vh rgb(255, 102, 0);
-    margin-left: 50vh;
-    margin-right: 50vh;
-    margin-top: 20vh;
+    margin-left: 45vh;
+    margin-right: 45vh;
+    margin-top: 15vh;
 }
 #pricipais_pontos_div {
     display: flex;
-    margin-left: 1vw;
-    margin-right: 1vw;
+    margin-left: -0.5vw;
+    margin-right: -0.5vw;
     margin-bottom: 20vh;
     margin-top: -10vh;
 }
@@ -105,6 +105,11 @@ h3 {
 .pricipais_pontos_p {
     font-size: 2vh;
     width: auto;
+}
+.img_pricipais_pontos {
+    width: 30vw;
+    height: auto;
+    border-radius: 10px
 }
 /* FINALIZAÇÃO INDEX */
 
@@ -133,6 +138,7 @@ footer {
     left: 0;
     right: 0;
     height: 1rem;
+    width: 94%;
     background-color: rgb(255, 102, 0);
     filter: url("#blob");
     margin-top: 1.3px;
@@ -156,7 +162,7 @@ footer {
     grid-gap: 4rem;
     padding: 2rem;
     background-image: linear-gradient(rgb(255, 102, 0), rgb(0, 0, 0));
-    width: 3000px;
+    width: 96.5%;
     margin-top: 5px;
     height: 300px;
 }
